@@ -1,0 +1,57 @@
+.container {
+    margin: 0 auto;
+    max-width: 500px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  #task-list {
+    margin-bottom: 10px;
+  }
+  
+  #new-task {
+    width: 200px;
+    padding: 5px;
+    margin-right: 10px;
+  }
+  
+  #add-btn {
+    padding: 5px 10px;
+    background-color: blue;
+    color: white;
+    border: 1px solid blue;
+    border-radius: 5px;
+  }
+  
+  .todo-item {
+    margin-bottom: 5px;
+  }
+  
+  .completed {
+    font-weight: bold;
+    text-decoration: line-through;
+  }
+  
+  .done-btn {
+    background-color: green;
+    color: white;
+    border: 1px solid green;
+    border-radius: 5px;
+    padding: 3px 8px;
+    margin-left: 10px;
+  }
+  
+  .delete-btn {
+    background-color: red;
+    color: white;
+    border: 1px solid red;
+    border-radius: 5px;
+    padding: 3px 8px;
+    margin-left: 10px;
+  }
+  
